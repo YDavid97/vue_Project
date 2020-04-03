@@ -47,12 +47,14 @@
   .jobItem p {
     font-size: .2rem;
     color: #666;
-    margin: 0 0 .1rem .2rem;
+    margin: 1rem 0 .1rem .2rem;
+    background: yellow;
   }
   .jobItem label {
     font-size: .2rem;
     color: #666;
-    margin: 0 0 .1rem .2rem;
+    margin: 1rem 2rem;
+    background: red;
   }
   .jobItem span {
     font-size: .25rem;
